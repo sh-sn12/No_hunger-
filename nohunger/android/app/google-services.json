@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720308364628",
+    "project_id": "nohunger-a3827",
+    "storage_bucket": "nohunger-a3827.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720308364628:android:7ad7f25d954f5312fad4c1",
+        "android_client_info": {
+          "package_name": "com.example.nohunger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPaXS0tQK7PGxOWIFu6FAfBM7ShGCPWX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
